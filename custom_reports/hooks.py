@@ -1,0 +1,6 @@
+app_name = "custom_reports"
+app_title = "Custom Reports"
+app_publisher = "Vedanshi Shethia"
+app_description = "Custom Reports for ERPNext"
+app_email = "vedanshidshethia17@example.com"
+app_license = "mit"

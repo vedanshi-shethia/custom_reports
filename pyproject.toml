@@ -1,0 +1,15 @@
+[build-system]
+requires = ["flit_core >=3.4,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "custom_reports"
+authors = [
+    {name = "Developer", email = "admin@example.com"},
+]
+description = "Custom Sales Reports for ERPNext"
+readme = "README.md"
+dynamic = ["version"]
+
+[tool.flit.module]
+name = "custom_reports"
